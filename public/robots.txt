@@ -10,4 +10,4 @@ Allow: /
 User-agent: Google-adstxt
 Allow: /
 
-Sitemap: https://ninjakana-web.vercel.app/sitemap.xml
+Sitemap: https://ninjakana.app/sitemap.xml

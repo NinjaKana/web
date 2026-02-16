@@ -74,6 +74,9 @@ export default function Home() {
             <span className="text-indigo-400">Ninja</span>Kana
           </div>
           <nav className="hidden md:flex items-center gap-8">
+            <a href="/blog" className="text-gray-400 hover:text-white transition-colors">
+              Blog
+            </a>
             <a href="#quiz" className="text-gray-400 hover:text-white transition-colors">
               Quiz
             </a>
@@ -311,6 +314,9 @@ export default function Home() {
               <span className="text-indigo-400">Ninja</span>Kana
             </div>
             <div className="flex gap-6 text-gray-400 text-sm">
+              <a href="/blog" className="hover:text-white transition-colors">
+                Blog
+              </a>
               <a href="/legal" className="hover:text-white transition-colors">
                 Mentions légales
               </a>
